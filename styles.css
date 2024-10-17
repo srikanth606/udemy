@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    background-color: #f7f9fa;
+}
+#header{
+    width:99%;
+    height: 60px;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+span{
+    font-size: 16px;
+}
+#search_bar{
+    width: 350px;
+    height: 40px;
+    border:1px solid black;
+    border-radius: 25px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+#login_button{
+    height:40px;
+    width:80px;
+    font-weight: bold;
+}
+#signup_button{
+    height:40px;
+    width:80px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
