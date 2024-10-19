@@ -3,7 +3,7 @@ body{
     background-color: #f7f9fa;
 }
 #header{
-    width:99%;
+    width:98.5%;
     height: 60px;
     background-color: white;
     padding: 10px;
@@ -34,4 +34,48 @@ span{
     background-color: black;
     color: white;
     font-weight: bold;
+}
+
+#section1{
+    padding-left: 100px;
+    padding-top: 70px;
+    height:350px;
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#card{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:400px;
+    height:170px;
+    background-color: white;
+}
+#section2{
+    padding-left: 60px;
+
+}
+#subheader{
+    width: 70%;
+    display: flex;
+    padding-left: 60px;
+    justify-content: space-between;
+    
+}
+#thirdheader{
+    width: 90%;
+    display: flex;
+    padding-left: 55px;
+    justify-content: space-between;
+}
+
+#div1{
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 10px;
+    background-color: rgb(230, 227, 227);
+    border-radius: 40px;
+
 }
