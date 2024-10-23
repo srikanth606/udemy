@@ -71,11 +71,55 @@ span{
 }
 
 #div1{
-    height: 60px;
-    padding-left: 10px;
-    padding-top: 20px;
+    height: 45px;
+    padding-left: 15px;
+    padding-top: 10px;
     padding-right: 10px;
-    background-color: rgb(230, 227, 227);
-    border-radius: 40px;
+    background-color: rgb(233, 234, 238);
+    border-radius: 25px;
+
+}
+#section3{
+    width:95%;
+    display: flex;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+#cards1{
+    width: 280px;
+    height:350px;
+    background-color: rgb(251, 251, 255);
+}
+#cards2{
+    margin-left: 15px;
+    width: 280px;
+    height:350px;
+    background-color: rgb(251, 251, 255);
+}
+#cards3{
+    margin-left: 15px;
+    width: 280px;
+    height:350px;
+    background-color: rgb(251, 251, 255);
+}
+#cards4{
+    margin-left: 15px;
+    width: 280px;
+    height:350px;
+    background-color: rgb(251, 251, 255);
+}
+
+#box{
+    margin-top: 50px;
+    margin-left: 60px;
+    width: 280px;
+    height: 50px;
+    border:1px  solid black;
+    font-size: 18px;
+    text-align: start;
+    align-items: center;
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
 
 }
