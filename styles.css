@@ -54,6 +54,7 @@ span{
 }
 #section2{
     padding-left: 60px;
+    
 
 }
 #subheader{
@@ -68,6 +69,7 @@ span{
     display: flex;
     padding-left: 55px;
     justify-content: space-between;
+    padding-top: 30px;
 }
 
 #div1{
@@ -92,19 +94,19 @@ span{
 }
 #cards2{
     margin-left: 15px;
-    width: 280px;
+    width: 300px;
     height:350px;
     background-color: rgb(251, 251, 255);
 }
 #cards3{
     margin-left: 15px;
-    width: 280px;
+    width: 300px;
     height:350px;
     background-color: rgb(251, 251, 255);
 }
 #cards4{
     margin-left: 15px;
-    width: 280px;
+    width: 300px;
     height:350px;
     background-color: rgb(251, 251, 255);
 }
@@ -112,7 +114,7 @@ span{
 #box{
     margin-top: 50px;
     margin-left: 60px;
-    width: 280px;
+    width: 300px;
     height: 50px;
     border:1px  solid black;
     font-size: 18px;
@@ -122,4 +124,37 @@ span{
     padding-left: 10px;
     padding-right: 10px;
 
+}
+
+#section4{
+    margin-top: 50px;
+    width:98.5%;
+    background-color: white;
+    height: 200px;
+    text-align: center;
+    padding-top: 30px;
+    color: rgb(139, 138, 138);
+    font-size: 20px;
+}
+#section5{
+    display: flex;
+    padding-left: 60px;
+    justify-content: space-around;
+   
+}
+#cont1{
+    width:500px;
+    height:120px;
+    border: 1px solid rgb(147, 4, 214);
+    border-radius: 5px;
+    border-left-width: 8px;
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-bottom: 10px;  
+}
+#footer{
+    background-color: rgb(28, 29, 31);
+    width: 98.5%;
+    padding-left: 20px;
 }
